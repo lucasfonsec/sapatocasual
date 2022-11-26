@@ -1,0 +1,33 @@
+.sapato{
+    color: white;
+}
+.s1{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.s2{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.s3{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.logo-loja1{
+    width: 330px;
+    height: 200;
+ 
+ }
+ @media screen and (max-width: 768px) {
+    nav li {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    footer p {
+        display: none;
+    }
+ }
